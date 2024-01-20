@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brlehman/bcdhprojectslab/static/css/main.fed5420f.css",
+    "main.js": "/brlehman/bcdhprojectslab/static/js/main.4a2050b6.js",
+    "static/js/787.bc7d429a.chunk.js": "/brlehman/bcdhprojectslab/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/brlehman/bcdhprojectslab/index.html",
+    "main.fed5420f.css.map": "/brlehman/bcdhprojectslab/static/css/main.fed5420f.css.map",
+    "main.4a2050b6.js.map": "/brlehman/bcdhprojectslab/static/js/main.4a2050b6.js.map",
+    "787.bc7d429a.chunk.js.map": "/brlehman/bcdhprojectslab/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fed5420f.css",
+    "static/js/main.4a2050b6.js"
+  ]
+}
