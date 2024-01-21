@@ -19,7 +19,7 @@ function App() {
 		let url = "https://csvproject.fly.dev/data/";
 		if (searchQuery) {
 			// Modify the URL for search endpoint if there's a search query
-			url = `http://csvproject.fly.dev/search/${searchQuery}/`;
+			url = `https://csvproject.fly.dev/search/${searchQuery}/`;
 		}
 
 		try {
@@ -47,7 +47,7 @@ function App() {
 	const handleIndex = async (index) => {
 		try {
 			const response = await fetch(
-				`http://csvproject.fly.dev/data/${index}/`
+				`https://csvproject.fly.dev/data/${index}/`
 			);
 			if (!response.ok) throw new Error("Network response was not ok.");
 			const json = await response.json();
